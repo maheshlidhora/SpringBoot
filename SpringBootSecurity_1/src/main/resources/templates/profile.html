@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile</title>
+</head>
+<body>
+    <h1>Hello <span th:text="${user.name}"></span></h1>	
+    <p th:text="${'Welcome into thymeleaf Application : ' + user.id }"></p>
+    <p th:text="${user.email}"></p>
+    <p th:text="${user.phone}"></p>
+    <p th:text="${user.password}"></p>
+    <!-- <p th:text="${'User Token : ' + userToken}"></p> -->
+    <p>Session ID: <span th:text="${sessionId}"></span></p>
+    <a href="logout">Logout</a>
+</body>
+</html>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+	<!-- bean definitions here -->
+	<bean class="com.jspiders.SpringMaven.beans.Address" id="address">
+		<property name="HouseNo" value="33" />
+		<property name="City" value="Bhopal" />
+		<property name="PinCode" value="462002" />
+	</bean>
+
+	<bean class="com.jspiders.SpringMaven.beans.User" id="user">
+		<property name="id" value="111" />
+		<property name="name" value="Ankit" />
+		<property name="email" value="Ankit@gmail.com" />
+		<property name="address" ref="address" />
+	</bean>
+</beans>

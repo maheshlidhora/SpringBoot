@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<section name="java.lang.Class">
+		<item key="replaceBarOpen" value="false"/>
+		<list key="findhistory">
+			<item value="authToken.setDetails(new WebAuthenticationDetailsSource().buildDetails(request));"/>
+			<item value="authToken.setDetails(new WebAuthenticationDetailsSource()&#x0A;                        .buildDetails(request));"/>
+			<item value="UsernamePasswordAuthenticationToken"/>
+			<item value="withDefaults"/>
+			<item value="spring-security-test"/>
+			<item value="spring-boot-starter-test&lt;/artifactId&gt;&#x0A;&#x09;&#x09;&#x09;&lt;scope&gt;test&lt;/scope&gt;"/>
+			<item value="&#x09;&#x09;&lt;dependency&gt;&#x0A;&#x09;&#x09;&#x09;&lt;groupId&gt;org.springframework.boot&lt;/groupId&gt;&#x0A;&#x09;&#x09;&#x09;&lt;artifactId&gt;spring-boot-starter-test&lt;/artifactId&gt;&#x0A;&#x09;&#x09;&#x09;&lt;scope&gt;test&lt;/scope&gt;&#x0A;&#x09;&#x09;&lt;/dependency&gt;"/>
+			<item value="findMyUser"/>
+		</list>
+	</section>
+</section>

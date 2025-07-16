@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.newrise.applicanttrackingsystem.entities.Tokens.java&apos; to &apos;Token.java&apos;&#x0A;- Original project: &apos;applicanttrackingsystem&apos;&#x0A;- Original element: &apos;com.newrise.applicanttrackingsystem.entities.Tokens.java&apos;&#x0A;- Renamed element: &apos;com.newrise.applicanttrackingsystem.entities.Token.java&apos;" description="Rename compilation unit &apos;Tokens.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.newrise.applicanttrackingsystem.entities{Tokens.java" name="Token.java" references="false" stamp="1750833889430" version="1.0"/>
+</session>

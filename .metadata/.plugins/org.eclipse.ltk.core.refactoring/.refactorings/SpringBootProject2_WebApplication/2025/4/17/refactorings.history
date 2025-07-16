@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.jspders.main.controller&apos; to &apos;com.jspders.main.controllers&apos;&#x0A;- Original project: &apos;SpringBootProject2_WebApplication&apos;&#x0A;- Original element: &apos;SpringBootProject2_WebApplication/src/main/java/com.jspders.main.controller&apos;&#x0A;- Renamed element: &apos;SpringBootProject2_WebApplication/src/main/java/com.jspders.main.controllers&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.jspders.main.controller&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.jspders.main.controller" name="com.jspders.main.controllers" qualified="false" references="true" stamp="1745391016491" textual="false" version="1.0"/>
+</session>

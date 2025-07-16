@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 packages to &apos;SpringCoreProgram9_AutowiringViaXml_byType/src&apos;&#x0A;- Original project: &apos;SpringCoreProgram9_AutowiringViaXml_byName&apos;&#x0A;- Destination element: &apos;SpringCoreProgram9_AutowiringViaXml_byType/src&apos;&#x0A;- Original elements:&#x0A;     SpringCoreProgram9_AutowiringViaXml_byName/src/com.jspiders.beans&#x0A;     SpringCoreProgram9_AutowiringViaXml_byName/src/com.jspiders.resources&#x0A;     SpringCoreProgram9_AutowiringViaXml_byName/src/com.jspiders.main" description="Copy packages" destination="=SpringCoreProgram9_AutowiringViaXml_byType/src" element1="/src&lt;com.jspiders.beans" element2="/src&lt;com.jspiders.resources" element3="/src&lt;com.jspiders.main" flags="589830" fragments="3" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1744701954745" version="1.0"/>
+</session>

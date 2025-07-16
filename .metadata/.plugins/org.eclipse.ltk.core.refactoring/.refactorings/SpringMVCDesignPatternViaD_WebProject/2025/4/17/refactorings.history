@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;MyDBController.java&apos; to &apos;SpringMvcViaMaven2/src/main/java/com.jspiders.controller&apos;&#x0A;- Original project: &apos;SpringMVCDesignPatternViaD_WebProject&apos;&#x0A;- Destination element: &apos;SpringMvcViaMaven2/src/main/java/com.jspiders.controller&apos;&#x0A;- Original element: &apos;com.jspiders.controller.MyDBController.java&apos;" description="Copy compilation unit" destination="=SpringMvcViaMaven2/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.jspiders.controller" element1="/src\/main\/java&lt;com.jspiders.controller{MyDBController.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1745314711595" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,5 @@
+package com.newrise.applicanttrackingsystem.servicesimpl;
+
+public class JobServiceImpl {
+
+}

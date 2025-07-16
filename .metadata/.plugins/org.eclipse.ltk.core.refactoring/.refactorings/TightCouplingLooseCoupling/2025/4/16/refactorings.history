@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 elements to &apos;TightCouplingLooseCoupling/src/looseCoupling&apos;&#x0A;- Original project: &apos;TightCouplingLooseCoupling&apos;&#x0A;- Destination element: &apos;TightCouplingLooseCoupling/src/looseCoupling&apos;&#x0A;- Original elements:&#x0A;     tightCoupling.DieselEngine.java&#x0A;     tightCoupling.Car.java&#x0A;     tightCoupling.Main.java&#x0A;     tightCoupling.PetrolEngine.java" description="Copy compilation units" destination="/src&lt;looseCoupling" element1="/src&lt;tightCoupling{DieselEngine.java" element2="/src&lt;tightCoupling{Car.java" element3="/src&lt;tightCoupling{Main.java" element4="/src&lt;tightCoupling{PetrolEngine.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1744625073514" units="4" version="1.0"/>
+</session>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+        
+	<bean class="com.jspiders.beans.Address" id="add1">
+		<constructor-arg value="33" />
+		<constructor-arg value="Bhopal" />
+		<constructor-arg value="462003" />
+	</bean>
+	
+	<bean class="com.jspiders.beans.User" id="user1" autowire="constructor">
+		<constructor-arg value="1001" index="0"/>
+		<constructor-arg value="Mahesh" index="1"/>
+		<constructor-arg value="mahesh@gmail.com"  index="2"/>
+		<!-- <constructor-arg ref="add1"/> --> <!-- It's Manual DI  -->
+	</bean>
+</beans>

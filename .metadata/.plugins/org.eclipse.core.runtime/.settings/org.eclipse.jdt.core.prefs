@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.core.builder.resourceCopyExclusionFilter=
+org.eclipse.jdt.core.classpathVariable.JRE_LIB=/Applications/SpringToolSuite4.app/Contents/Eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.aarch64_21.0.6.v20250130-0529/jre/lib/jrt-fs.jar
+org.eclipse.jdt.core.classpathVariable.JRE_SRC=/Applications/SpringToolSuite4.app/Contents/Eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.aarch64_21.0.6.v20250130-0529/jre/lib/src.zip
+org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
+org.eclipse.jdt.core.classpathVariable.M2_REPO=/Users/maheshprajapati/.m2/repository
+org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=21
+org.eclipse.jdt.core.compiler.compliance=21
+org.eclipse.jdt.core.compiler.release=enabled
+org.eclipse.jdt.core.compiler.source=21
+org.eclipse.jdt.core.userLibrary.JdbcDriver=<?xml version\="1.0" encoding\="UTF-8"?>\n<userlibrary systemlibrary\="false" version\="2">\n\t<archive path\="/Users/maheshprajapati/Downloads/J2EE_SOFTWARES/mysql-connector-j-8.0.33.jar"/>\n</userlibrary>\n
+org.eclipse.jdt.core.userLibrary.SpringCoreJarFiles=<?xml version\="1.0" encoding\="UTF-8"?>\n<userlibrary systemlibrary\="false" version\="2">\n\t<archive path\="/Users/maheshprajapati/Downloads/J2EE_SOFTWARES/SpringCoreJarFiles/commons-logging-1.2.jar"/>\n\t<archive path\="/Users/maheshprajapati/Downloads/J2EE_SOFTWARES/SpringCoreJarFiles/spring-beans-6.2.0.jar"/>\n\t<archive path\="/Users/maheshprajapati/Downloads/J2EE_SOFTWARES/SpringCoreJarFiles/spring-context-6.2.0.jar"/>\n\t<archive path\="/Users/maheshprajapati/Downloads/J2EE_SOFTWARES/SpringCoreJarFiles/spring-core-6.2.0.jar"/>\n\t<archive path\="/Users/maheshprajapati/Downloads/J2EE_SOFTWARES/SpringCoreJarFiles/spring-expression-6.2.0.jar"/>\n\t<archive path\="/Users/maheshprajapati/Downloads/J2EE_SOFTWARES/SpringCoreJarFiles/spring-aop-6.2.0.jar"/>\n</userlibrary>\n

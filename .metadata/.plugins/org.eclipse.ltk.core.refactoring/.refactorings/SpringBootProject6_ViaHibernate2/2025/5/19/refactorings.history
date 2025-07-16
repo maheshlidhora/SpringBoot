@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;hibernate.cfg.xml&apos; to &apos;SpringBootProject6_ViaHibernate2/src/main/java/com.jspders.ViaHibernate.resources&apos;&#x0A;- Original project: &apos;SpringBootProject6_ViaHibernate2&apos;&#x0A;- Destination element: &apos;SpringBootProject6_ViaHibernate2/src/main/java/com.jspders.ViaHibernate.resources&apos;&#x0A;- Original element: &apos;hibernate.cfg.xml&apos;&#x0A;- Update references to refactored element" description="Move file" destination="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.jspders.ViaHibernate.resources" element1="src/main/java/com/jspders/ViaHibernate/config/hibernate.cfg.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1746515391778" units="0" version="1.0"/>
+</session>

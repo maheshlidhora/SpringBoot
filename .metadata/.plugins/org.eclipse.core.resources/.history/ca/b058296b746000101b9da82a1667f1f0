@@ -1,0 +1,8 @@
+package com.newrise.applicanttrackingsystem.servicesimpl;
+
+import com.newrise.applicanttrackingsystem.services.IJobService;
+
+public class JobServiceImpl implements IJobService 
+{
+
+}
