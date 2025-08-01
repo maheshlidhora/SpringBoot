@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Login Form</h1>	
+    <h1 th:if="${successMsg != null}" style="color: green;" th:text="${successMsg}"></h1>
+    <h1 th:if="${errorMsg != null}" style="color: red;" th:text="${errorMsg}"></h1>  
+
+    <form action="logForm" method="post">
+        <input type="email" name="email" placeholder="Email"><br>
+        <input type="password" name="password" placeholder="Password"><br>
+        <input type="submit" value="Register">
+    </form>
+
+    <div><b><a href="regPage">If not Register then Click here..</a></b></div>
+</body>
+</html>

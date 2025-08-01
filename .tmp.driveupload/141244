@@ -1,0 +1,3 @@
+spring.application.name=SpringSecurity2
+spring.security.user.name=SCOTT
+spring.security.user.password=tiger

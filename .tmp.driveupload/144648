@@ -1,0 +1,39 @@
+ spring.application.name=TheOrionWriters
+# ---------------------------------------------- :: Application Banner :: ----------------------------------------------
+spring.banner.location=classpath:Banner/banner.txt
+
+
+# ---------------------------------------------- :: Databases Connection :: ----------------------------------------------
+# Tell Spring to load the external properties
+spring.config.import=optional:file:/Users/maheshprajapati/Desktop/Credentials/db-credentials.properties
+# Now use those imported properties
+# It will also create Database if it is not Exist:
+spring.datasource.url=${db.url}/TheOrionWriters?createDatabaseIfNotExist=true
+spring.datasource.username=${db.username}
+spring.datasource.password=${db.password}
+# For Auto Creation/Updation of Tables. 
+spring.jpa.hibernate.ddl-auto=update
+# For Showing Executed SQL Query by Hibernate on The Console.
+spring.jpa.show-sql=true
+
+
+# ---------------------------------------------- :: JSP & Thymeleaf Support :: ----------------------------------------------
+# FOR JSP Controller Mapping
+spring.mvc.view.prefix=/view/
+spring.mvc.view.suffix=.jsp
+# FOR Thymeleaf
+spring.thymeleaf.enabled=true
+spring.thymeleaf.cache=false
+spring.thymeleaf.prefix=classpath:/templates/
+spring.thymeleaf.suffix=.html
+
+
+# ---------------------------------------------- :: Spring Application Port :: ----------------------------------------------
+# For Changing Server Port
+#server.port=9191
+
+
+# ---------------------------------------------- :: Spring Security :: ----------------------------------------------
+# Default Spring Security Credentials 
+spring.security.user.name=admin
+spring.security.user.password=admin@123

@@ -1,0 +1,5 @@
+spring.application.name=SpringBootProject4_ViaJDBC
+
+spring.datasource.url=jdbc:mysql://localhost:3306/USER
+spring.datasource.username=root
+spring.datasource.password=78789899

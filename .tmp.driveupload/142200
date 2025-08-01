@@ -1,0 +1,2 @@
+spring.application.name=SpringBootBannerChange
+spring.banner.location=classpath:Banner/banner.txt
