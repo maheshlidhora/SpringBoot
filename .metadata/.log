@@ -1398,3 +1398,493 @@ END
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2025-07-16 11:47:56.218
 !MESSAGE Boot project ADDED: applicanttrackingsystem
+!SESSION 2025-08-01 14:50:09.629 -----------------------------------------------
+eclipse.buildId=4.34.0.202502131954
+java.version=21.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -keyring /Users/maheshprajapati/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.springframework.boot.ide.branding.sts4 -keyring /Users/maheshprajapati/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-08-01 14:50:10.876
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-08-01 14:50:11.818
+!MESSAGE Logback config file: /Users/maheshprajapati/Desktop/SpringBoot/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.0.20241001-1350.xml
+
+!ENTRY org.eclipse.ui 2 0 2025-08-01 14:50:11.935
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2025-08-01 14:50:11.935
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-08-01 14:50:14.397
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/Applications/SpringToolSuite4.app/Contents/Eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.aarch64_21.0.6.v20250130-0529/jre/bin/java
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Dspring.config.location=classpath:/application.properties
+-Xlog:jni+resolve=off
+-XX:ErrorFile=/Users/maheshprajapati/Desktop/SpringBoot/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1754040014397
+-Dlanguageserver.hover-timeout=225
+-jar
+/Applications/SpringToolSuite4.app/Contents/Eclipse/plugins/org.springframework.tooling.boot.ls_1.60.0.202502031607/servers/spring-boot-language-server/spring-boot-language-server-1.60.0-SNAPSHOT-exec.jar
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:14.398
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-08-01 14:50:14.406
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 7723
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:14.623
+!MESSAGE Boot project ADDED: SpringBootBannerChange
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:14.623
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:14.624
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:14.624
+!MESSAGE Boot project ADDED: SpringBootProject1_StandAloneApp
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:14.625
+!MESSAGE Boot project ADDED: SpringBootProject2_WebApplication
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:14.809
+!MESSAGE Classpath changed for project: SpringMVCDesignPatternViaD_WebProject
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:14.816
+!MESSAGE Boot project ADDED: SpringBootProject3_BeanProgram
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:14.816
+!MESSAGE Boot project ADDED: SpringBootProject4_ViaJDBC
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:14.816
+!MESSAGE Boot project ADDED: SpringBootProject5_ViaHibernate
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:14.817
+!MESSAGE Boot project ADDED: SpringBootProject6_ViaHibernate2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:14.817
+!MESSAGE Boot project ADDED: SpringBootProject7_ViaDataJPA
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:14.817
+!MESSAGE Boot project ADDED: SpringBootProject8_ViaJPAWebAppRegLoginApp
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:14.819
+!MESSAGE Boot project ADDED: SpringBootProject9_ViaJPAThymleafRegLoginApp
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:14.819
+!MESSAGE Boot project ADDED: SpringBootProjectRestApi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:14.820
+!MESSAGE Boot project ADDED: SpringBootSecurity_1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:14.820
+!MESSAGE Boot project ADDED: SpringBootSecurity_2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:14.820
+!MESSAGE Boot project ADDED: SpringCoreProgram1_WithXmlConfiguration 
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:14.821
+!MESSAGE Boot project ADDED: SpringCoreProgram2_WithJavaConfiguration
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:14.821
+!MESSAGE Boot project ADDED: SpringCoreProgram3_WithAnnotationsConfiguration
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:14.821
+!MESSAGE Boot project ADDED: SpringCoreProgram4_WithAnnotationsConfiguration
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:14.821
+!MESSAGE Boot project ADDED: SpringCoreProgram5_SetterMethodDIViaXmlConfig
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:14.821
+!MESSAGE Boot project ADDED: SpringCoreProgram6_ConstructorDIViaXmlConfig
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:14.822
+!MESSAGE Boot project ADDED: SpringCoreProgram7_SetterMethodDIViaJavaConfig
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:14.822
+!MESSAGE Boot project ADDED: SpringCoreProgram8_ConstructorDIViaJavaConfig
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:14.822
+!MESSAGE Boot project ADDED: SpringCoreProgram9_Autowiring
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:14.822
+!MESSAGE Boot project ADDED: SpringCoreProgram9_AutowiringAdvanced
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:14.822
+!MESSAGE Boot project ADDED: SpringCoreProgram9_AutowiringUsingQualifier
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:14.823
+!MESSAGE Boot project ADDED: SpringCoreProgram9_AutowiringViaXml_byConstructor
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:14.823
+!MESSAGE Boot project ADDED: SpringCoreProgram9_AutowiringViaXml_byName
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:14.823
+!MESSAGE Boot project ADDED: SpringCoreProgram9_AutowiringViaXml_byType
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:14.823
+!MESSAGE Boot project ADDED: SpringCoreProgramViaMaven
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:14.824
+!MESSAGE Boot project ADDED: SpringDockerTest
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:14.824
+!MESSAGE Boot project ADDED: SpringDockerTest-1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:14.824
+!MESSAGE Boot project ADDED: SpringJdbcViaMaven
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:14.824
+!MESSAGE Boot project ADDED: SpringJdbcViaMavenWithNamedParameterJdbcTemplate
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:14.824
+!MESSAGE Boot project ADDED: SpringMvcViaMaven
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:14.825
+!MESSAGE Boot project ADDED: SpringMvcViaMaven2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:14.825
+!MESSAGE Boot project ADDED: TheOrionWriters
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:14.825
+!MESSAGE Boot project ADDED: applicanttrackingsystem
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:15.077
+!MESSAGE Classpath changed for project: SpringCoreProgram1_WithXmlConfiguration 
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:15.077
+!MESSAGE Classpath changed for project: SpringCoreProgram2_WithJavaConfiguration
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:15.077
+!MESSAGE Classpath changed for project: SpringCoreProgram3_WithAnnotationsConfiguration
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:15.078
+!MESSAGE Classpath changed for project: SpringCoreProgram4_WithAnnotationsConfiguration
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:15.078
+!MESSAGE Classpath changed for project: SpringCoreProgram5_SetterMethodDIViaXmlConfig
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:15.078
+!MESSAGE Classpath changed for project: SpringCoreProgram6_ConstructorDIViaXmlConfig
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:15.078
+!MESSAGE Classpath changed for project: SpringCoreProgram7_SetterMethodDIViaJavaConfig
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:15.079
+!MESSAGE Classpath changed for project: SpringCoreProgram8_ConstructorDIViaJavaConfig
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:15.079
+!MESSAGE Classpath changed for project: SpringCoreProgram9_Autowiring
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:15.079
+!MESSAGE Classpath changed for project: SpringCoreProgram9_AutowiringAdvanced
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:15.079
+!MESSAGE Classpath changed for project: SpringCoreProgram9_AutowiringUsingQualifier
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:15.079
+!MESSAGE Classpath changed for project: SpringCoreProgram9_AutowiringViaXml_byConstructor
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:15.079
+!MESSAGE Classpath changed for project: SpringCoreProgram9_AutowiringViaXml_byName
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:15.080
+!MESSAGE Classpath changed for project: SpringCoreProgram9_AutowiringViaXml_byType
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:15.080
+!MESSAGE Classpath changed for project: SpringMVCDesignPatternViaD_WebProject
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:15.080
+!MESSAGE Classpath changed for project: SpringMvcViaMaven
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:15.080
+!MESSAGE Classpath changed for project: SpringMvcViaMaven2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:16.376
+!MESSAGE Classpath changed for project: SpringBootBannerChange
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:17.271
+!MESSAGE Classpath changed for project: SpringBootProject1_StandAloneApp
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:17.271
+!MESSAGE Classpath changed for project: SpringBootProject2_WebApplication
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:18.896
+!MESSAGE Classpath changed for project: SpringBootProject3_BeanProgram
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:18.897
+!MESSAGE Classpath changed for project: SpringBootProject4_ViaJDBC
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:18.897
+!MESSAGE Classpath changed for project: SpringBootProject5_ViaHibernate
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:18.897
+!MESSAGE Classpath changed for project: SpringBootProject6_ViaHibernate2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:18.897
+!MESSAGE Classpath changed for project: SpringBootProject7_ViaDataJPA
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:18.897
+!MESSAGE Classpath changed for project: SpringBootProject8_ViaJPAWebAppRegLoginApp
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:18.897
+!MESSAGE Classpath changed for project: SpringBootProject9_ViaJPAThymleafRegLoginApp
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-08-01 14:50:19.736
+!MESSAGE JavaBuilder handling CoreException while building: SpringDockerTest-1
+!STACK 1
+org.eclipse.core.runtime.CoreException: release 23 is not found in the system
+	at org.eclipse.jdt.internal.core.builder.ClasspathJrtWithReleaseOption.<init>(ClasspathJrtWithReleaseOption.java:90)
+	at org.eclipse.jdt.internal.core.builder.ClasspathLocation.forJrtSystem(ClasspathLocation.java:175)
+	at org.eclipse.jdt.internal.core.builder.NameEnvironment.computeClasspathLocations(NameEnvironment.java:360)
+	at org.eclipse.jdt.internal.core.builder.NameEnvironment.<init>(NameEnvironment.java:90)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.initializeBuilder(JavaBuilder.java:692)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:213)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.lang.IllegalArgumentException: release 23 is not found in the system
+	at org.eclipse.jdt.internal.core.builder.ClasspathJrtWithReleaseOption.<init>(ClasspathJrtWithReleaseOption.java:89)
+	... 18 more
+!SUBENTRY 1 org.eclipse.jdt.core 4 0 2025-08-01 14:50:19.736
+!MESSAGE release 23 is not found in the system
+!STACK 0
+java.lang.IllegalArgumentException: release 23 is not found in the system
+	at org.eclipse.jdt.internal.core.builder.ClasspathJrtWithReleaseOption.<init>(ClasspathJrtWithReleaseOption.java:89)
+	at org.eclipse.jdt.internal.core.builder.ClasspathLocation.forJrtSystem(ClasspathLocation.java:175)
+	at org.eclipse.jdt.internal.core.builder.NameEnvironment.computeClasspathLocations(NameEnvironment.java:360)
+	at org.eclipse.jdt.internal.core.builder.NameEnvironment.<init>(NameEnvironment.java:90)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.initializeBuilder(JavaBuilder.java:692)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:213)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-08-01 14:50:20.196
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-08-01 14:50:20.198
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:20.525
+!MESSAGE Classpath changed for project: SpringBootProjectRestApi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:20.525
+!MESSAGE Classpath changed for project: SpringBootSecurity_1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:20.526
+!MESSAGE Classpath changed for project: SpringBootSecurity_2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:20.527
+!MESSAGE Classpath changed for project: SpringCoreProgramViaMaven
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:20.527
+!MESSAGE Classpath changed for project: SpringDockerTest
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:20.527
+!MESSAGE Classpath changed for project: SpringDockerTest-1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:20.527
+!MESSAGE Classpath changed for project: SpringJdbcViaMaven
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:20.527
+!MESSAGE Classpath changed for project: SpringJdbcViaMavenWithNamedParameterJdbcTemplate
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:20.527
+!MESSAGE Classpath changed for project: SpringMvcViaMaven
+
+!ENTRY org.eclipse.wst.validation 4 0 2025-08-01 14:50:20.993
+!MESSAGE CHKJ3000E: WAR Validation Failed: org.eclipse.jst.j2ee.commonarchivecore.internal.exception.DeploymentDescriptorLoadException: WEB-INF/web.xml
+!STACK 0
+org.eclipse.wst.validation.internal.core.ValidationException: CHKJ3000E: WAR Validation Failed: org.eclipse.jst.j2ee.commonarchivecore.internal.exception.DeploymentDescriptorLoadException: WEB-INF/web.xml
+	at org.eclipse.jst.j2ee.model.internal.validation.WarValidator.validateInJob(WarValidator.java:349)
+	at org.eclipse.jst.j2ee.internal.web.validation.UIWarValidator.validateInJob(UIWarValidator.java:113)
+	at org.eclipse.wst.validation.internal.operations.ValidatorJob.run(ValidatorJob.java:78)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.wst.validation 4 0 2025-08-01 14:50:20.993
+!MESSAGE WEB-INF/web.xml
+!STACK 0
+org.eclipse.jst.j2ee.commonarchivecore.internal.exception.DeploymentDescriptorLoadException: WEB-INF/web.xml
+Stack trace of nested exception:
+org.eclipse.emf.common.util.WrappedException: org.xml.sax.SAXParseException; lineNumber: 5; columnNumber: 10; Element type "web-app" must be declared.
+	at org.eclipse.wst.common.internal.emf.resource.EMF2DOMRenderer.loadDocument(EMF2DOMRenderer.java:82)
+	at org.eclipse.wst.common.internal.emf.resource.EMF2DOMRenderer.doLoad(EMF2DOMRenderer.java:63)
+	at org.eclipse.wst.common.internal.emf.resource.TranslatorResourceImpl.basicDoLoad(TranslatorResourceImpl.java:156)
+	at org.eclipse.wst.common.internal.emf.resource.CompatibilityXMIResourceImpl.doLoad(CompatibilityXMIResourceImpl.java:186)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.load(ResourceImpl.java:1563)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.load(ResourceImpl.java:1342)
+	at org.eclipse.wst.common.internal.emf.resource.CompatibilityXMIResourceImpl.load(CompatibilityXMIResourceImpl.java:277)
+	at org.eclipse.wst.common.internal.emf.resource.TranslatorResourceImpl.load(TranslatorResourceImpl.java:432)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.demandLoad(ResourceSetImpl.java:259)
+	at org.eclipse.jem.internal.util.emf.workbench.ProjectResourceSetImpl.demandLoad(ProjectResourceSetImpl.java:830)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.demandLoadHelper(ResourceSetImpl.java:274)
+	at org.eclipse.jem.internal.util.emf.workbench.ProjectResourceSetImpl.getResource(ProjectResourceSetImpl.java:1083)
+	at org.eclipse.wst.common.internal.emfworkbench.WorkbenchResourceHelper.getOrCreateResource(WorkbenchResourceHelper.java:380)
+	at org.eclipse.wst.common.internal.emfworkbench.integration.EditModel.getResource(EditModel.java:694)
+	at org.eclipse.wst.common.componentcore.internal.ArtifactEditModel.getResource(ArtifactEditModel.java:198)
+	at org.eclipse.wst.common.componentcore.ArtifactEdit.getResource(ArtifactEdit.java:725)
+	at org.eclipse.jst.j2ee.internal.archive.operations.ComponentLoadStrategyImpl.getMofResource(ComponentLoadStrategyImpl.java:614)
+	at org.eclipse.jst.j2ee.commonarchivecore.internal.impl.ArchiveImpl.getMofResource(ArchiveImpl.java:761)
+	at org.eclipse.jst.j2ee.commonarchivecore.internal.impl.ModuleFileImpl.getDeploymentDescriptorResource(ModuleFileImpl.java:63)
+	at org.eclipse.jst.j2ee.commonarchivecore.internal.strategy.XmlBasedImportStrategyImpl.primLoadDeploymentDescriptor(XmlBasedImportStrategyImpl.java:39)
+	at org.eclipse.jst.j2ee.commonarchivecore.internal.strategy.War22ImportStrategyImpl.loadDeploymentDescriptor(War22ImportStrategyImpl.java:93)
+	at org.eclipse.jst.j2ee.commonarchivecore.internal.strategy.War22ImportStrategyImpl.importMetaData(War22ImportStrategyImpl.java:87)
+	at org.eclipse.jst.j2ee.commonarchivecore.internal.impl.WARFileImpl.getDeploymentDescriptor(WARFileImpl.java:150)
+	at org.eclipse.jst.j2ee.model.internal.validation.WarValidator.validateInJob(WarValidator.java:334)
+	at org.eclipse.jst.j2ee.internal.web.validation.UIWarValidator.validateInJob(UIWarValidator.java:113)
+	at org.eclipse.wst.validation.internal.operations.ValidatorJob.run(ValidatorJob.java:78)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.xml.sax.SAXParseException; lineNumber: 5; columnNumber: 10; Element type "web-app" must be declared.
+	at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:204)
+	at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.error(ErrorHandlerWrapper.java:135)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:396)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:284)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.dtd.XMLDTDValidator.handleStartElement(XMLDTDValidator.java:1835)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.dtd.XMLDTDValidator.startElement(XMLDTDValidator.java:728)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.scanStartElement(XMLNSDocumentScannerImpl.java:376)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl$NSContentDriver.scanRootElementHook(XMLNSDocumentScannerImpl.java:615)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:3079)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:836)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:605)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:114)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:542)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:889)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:825)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:247)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:342)
+	at java.xml/javax.xml.parsers.DocumentBuilder.parse(DocumentBuilder.java:122)
+	at org.eclipse.wst.common.internal.emf.utilities.DOMUtilities.loadDocument(DOMUtilities.java:560)
+	at org.eclipse.wst.common.internal.emf.resource.EMF2DOMRenderer.loadDocument(EMF2DOMRenderer.java:75)
+	... 26 more
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-08-01 14:50:21.143
+!MESSAGE JavaBuilder handling CoreException while building: SpringDockerTest-1
+!STACK 1
+org.eclipse.core.runtime.CoreException: release 23 is not found in the system
+	at org.eclipse.jdt.internal.core.builder.ClasspathJrtWithReleaseOption.<init>(ClasspathJrtWithReleaseOption.java:90)
+	at org.eclipse.jdt.internal.core.builder.ClasspathLocation.forJrtSystem(ClasspathLocation.java:175)
+	at org.eclipse.jdt.internal.core.builder.NameEnvironment.computeClasspathLocations(NameEnvironment.java:360)
+	at org.eclipse.jdt.internal.core.builder.NameEnvironment.<init>(NameEnvironment.java:90)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.initializeBuilder(JavaBuilder.java:692)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:213)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.lang.IllegalArgumentException: release 23 is not found in the system
+	at org.eclipse.jdt.internal.core.builder.ClasspathJrtWithReleaseOption.<init>(ClasspathJrtWithReleaseOption.java:89)
+	... 18 more
+!SUBENTRY 1 org.eclipse.jdt.core 4 0 2025-08-01 14:50:21.143
+!MESSAGE release 23 is not found in the system
+!STACK 0
+java.lang.IllegalArgumentException: release 23 is not found in the system
+	at org.eclipse.jdt.internal.core.builder.ClasspathJrtWithReleaseOption.<init>(ClasspathJrtWithReleaseOption.java:89)
+	at org.eclipse.jdt.internal.core.builder.ClasspathLocation.forJrtSystem(ClasspathLocation.java:175)
+	at org.eclipse.jdt.internal.core.builder.NameEnvironment.computeClasspathLocations(NameEnvironment.java:360)
+	at org.eclipse.jdt.internal.core.builder.NameEnvironment.<init>(NameEnvironment.java:90)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.initializeBuilder(JavaBuilder.java:692)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:213)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-08-01 14:50:21.236
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-08-01 14:50:21.238
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:22.056
+!MESSAGE Classpath changed for project: TheOrionWriters
+
+!ENTRY org.eclipse.wst.validation 4 0 2025-08-01 14:50:22.115
+!MESSAGE CHKJ3000E: WAR Validation Failed: org.eclipse.jst.j2ee.commonarchivecore.internal.exception.DeploymentDescriptorLoadException: WEB-INF/web.xml
+!STACK 0
+org.eclipse.wst.validation.internal.core.ValidationException: CHKJ3000E: WAR Validation Failed: org.eclipse.jst.j2ee.commonarchivecore.internal.exception.DeploymentDescriptorLoadException: WEB-INF/web.xml
+	at org.eclipse.jst.j2ee.model.internal.validation.WarValidator.validateInJob(WarValidator.java:349)
+	at org.eclipse.jst.j2ee.internal.web.validation.UIWarValidator.validateInJob(UIWarValidator.java:113)
+	at org.eclipse.wst.validation.internal.operations.ValidatorJob.run(ValidatorJob.java:78)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.wst.validation 4 0 2025-08-01 14:50:22.115
+!MESSAGE WEB-INF/web.xml
+!STACK 0
+org.eclipse.jst.j2ee.commonarchivecore.internal.exception.DeploymentDescriptorLoadException: WEB-INF/web.xml
+Stack trace of nested exception:
+org.eclipse.jst.j2ee.commonarchivecore.internal.exception.EmptyResourceException: platform:/resource/SpringMvcViaMaven/src/main/webapp/WEB-INF/web.xml
+	at org.eclipse.jst.j2ee.commonarchivecore.internal.util.ArchiveUtil.getRoot(ArchiveUtil.java:442)
+	at org.eclipse.jst.j2ee.commonarchivecore.internal.strategy.XmlBasedImportStrategyImpl.primLoadDeploymentDescriptor(XmlBasedImportStrategyImpl.java:42)
+	at org.eclipse.jst.j2ee.commonarchivecore.internal.strategy.War22ImportStrategyImpl.loadDeploymentDescriptor(War22ImportStrategyImpl.java:93)
+	at org.eclipse.jst.j2ee.commonarchivecore.internal.strategy.War22ImportStrategyImpl.importMetaData(War22ImportStrategyImpl.java:87)
+	at org.eclipse.jst.j2ee.commonarchivecore.internal.impl.WARFileImpl.getDeploymentDescriptor(WARFileImpl.java:150)
+	at org.eclipse.jst.j2ee.model.internal.validation.WarValidator.validateInJob(WarValidator.java:334)
+	at org.eclipse.jst.j2ee.internal.web.validation.UIWarValidator.validateInJob(UIWarValidator.java:113)
+	at org.eclipse.wst.validation.internal.operations.ValidatorJob.run(ValidatorJob.java:78)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 14:50:23.584
+!MESSAGE Classpath changed for project: applicanttrackingsystem
+
+!ENTRY org.eclipse.ui.ide 4 4 2025-08-01 14:55:53.517
+!MESSAGE Problems saving workspace
+
+!ENTRY org.eclipse.ui.ide 4 1 2025-08-01 14:55:53.521
+!MESSAGE Problems occurred while trying to save the state of the workbench.
+!SUBENTRY 1 org.eclipse.ui.ide 4 1 2025-08-01 14:55:53.522
+!MESSAGE Internal Error
+!STACK 0
+java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at org.eclipse.core.internal.resources.SaveManager.forEachProjectInParallel(SaveManager.java:1827)
+	at org.eclipse.core.internal.resources.SaveManager.visitAndSave(SaveManager.java:1782)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1239)
+	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2498)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor.lambda$1(IDEWorkbenchAdvisor.java:555)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:124)
